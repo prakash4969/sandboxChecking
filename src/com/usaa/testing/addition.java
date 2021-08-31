@@ -5,6 +5,8 @@ public class addition {
     int b=20;
     int c =a+b;
     int d = a-b;
+    int e = c-d;
+    // checking from same file
     public int add(){
        return c;
     }
