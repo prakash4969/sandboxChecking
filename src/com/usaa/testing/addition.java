@@ -14,5 +14,7 @@ public class addition {
     public int sub(){
         return d;
     }
-
+    public int suba(){
+        return d;
+    }
 }
