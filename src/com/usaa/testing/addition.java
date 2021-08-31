@@ -6,6 +6,7 @@ public class addition {
     int c =a+b;
     int d = a-b;
     //there are two methods
+    // i dont know what i am doing
     public int add(){
        return c;
     }
